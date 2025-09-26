@@ -43,11 +43,17 @@ nav a:hover {
   color: #000;
 }
 
+.transparency {
+  background-color: #333333a8;
+  padding: 20px 0px;
+}
+
+
 .hero {
   background: url('placeholder.jpg') center/cover no-repeat;
   color: white;
   text-align: center;
-  padding: 100px 20px;
+  padding: 100px 0px;
 }
 
 .hero h1 {
@@ -99,12 +105,5 @@ footer {
   font-size: 0.9rem;
 }
 
-.outlined-text {
-  color: white;
-  text-shadow:
-    -1px -1px 0 black,
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
-}
+
 
